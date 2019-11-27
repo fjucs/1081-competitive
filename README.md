@@ -27,3 +27,7 @@
 	* [x] A [Uva 12545 - Bits Equalizer](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3990)
 	* [x] B [Uva 12086 - Potentiometers](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3238)
 
+* week9
+
+* week12
+	* [x] A [Uva 10930]
