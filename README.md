@@ -29,5 +29,13 @@
 
 * week9
 
+* week10
+
+* week11
+
 * week12
 	* [x] A [Uva 10930]
+
+* week13
+	* [x] A Uva 11057
+	* [] B Uva 
