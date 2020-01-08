@@ -2,9 +2,6 @@
 
 using namespace std;
 
-#define PROB ""
-#define TESTC ""
-
 #define USE_CPPIO() ios_base::sync_with_stdio(0); cin.tie(0)
 typedef long long int LL;
 typedef unsigned long long ULL;
@@ -23,5 +20,4 @@ typedef pair<LL, LL> PLL;
 int main()
 {
 	
-	return 0;
 }

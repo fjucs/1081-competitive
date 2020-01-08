@@ -31,7 +31,7 @@
     * BIT (fenwick tree)
 
 * week10
-  * [] A [Uva 1612]()
+  * [] A [Uva 1612](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4487)
     * Greedy
   * [] B [Uva 1292]()
     * Tree DP
